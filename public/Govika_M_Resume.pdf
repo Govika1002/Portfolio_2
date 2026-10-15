@@ -1,0 +1,92 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 2831 >>
+stream
+BT
+/F2 20 Tf
+50 780 Td (GOVIKA M) Tj
+/F1 11 Tf
+0 -16 Td (Python Developer | Chennai, Tamil Nadu, India) Tj
+0 -14 Td (+91-8072297525 | govikamarimuthu10@gmail.com) Tj
+0 -14 Td (LinkedIn: linkedin.com/in/govika-m-2b10492a6/ | GitHub: github.com/Govika1002) Tj
+0 -24 Td
+/F2 13 Tf (PROFESSIONAL SUMMARY) Tj
+0 -14 Td
+/F1 9.5 Tf (Motivated fresher with hands-on experience building web applications and automation scripts using Python.) Tj
+0 -12 Td (Proficient in Django/Flask, REST APIs, and relational databases with solid grasp of OOP and data structures.) Tj
+0 -12 Td (Passionate about writing clean, efficient code and eager to contribute to fast-paced software development teams.) Tj
+0 -22 Td
+/F2 13 Tf (TECHNICAL SKILLS) Tj
+0 -14 Td
+/F1 9.5 Tf (Languages: Python, SQL, JavaScript basics) Tj
+0 -12 Td (Frameworks & Libraries: Django, Django REST Framework, Flask, NumPy, Pandas, OpenCV) Tj
+0 -12 Td (Databases: MySQL, PostgreSQL, SQLite, MongoDB) Tj
+0 -12 Td (Concepts: OOP, Data Structures & Algorithms, Multithreading, REST APIs, Unit Testing) Tj
+0 -12 Td (Developer Tools: Git, GitHub, VS Code, Postman, Docker, Linux/Bash, AWS basic) Tj
+0 -22 Td
+/F2 13 Tf (EDUCATION) Tj
+0 -14 Td
+/F2 10 Tf (B.Tech in Information Technology) Tj
+/F1 9.5 Tf ( | Paavai Engineering College | 2022 - 2026 | CGPA: 83%) Tj
+0 -13 Td
+/F2 10 Tf (Higher Secondary Certificate - 12th Grade) Tj
+/F1 9.5 Tf ( | Cheran Matric Hr Sec School | 2020 - 2022 | 74%) Tj
+0 -22 Td
+/F2 13 Tf (EXPERIENCE / INTERNSHIP) Tj
+0 -14 Td
+/F2 10 Tf (Python Developer Intern) Tj
+/F1 9.5 Tf ( | Jun 2025 - Aug 2025) Tj
+0 -12 Td ( - Contributed to backend feature development for an internal Django-based web application) Tj
+0 -12 Td ( - Fixed bugs and optimized database queries, improving average API response time by 20%) Tj
+0 -12 Td ( - Collaborated with a team of 4 using Git for version control and Agile sprint practices) Tj
+0 -22 Td
+/F2 13 Tf (KEY PROJECTS) Tj
+0 -14 Td
+/F2 10 Tf (Multimedia Image Steganography for Military Applications) Tj
+0 -12 Td
+/F1 9.5 Tf ( - Hides secret military data inside images using LSB Steganography with AES-256 encryption) Tj
+0 -12 Td ( - Tech Stack: Python, Django REST Framework, PostgreSQL, JWT, OpenCV, Pillow) Tj
+0 -14 Td
+/F2 10 Tf (Smart Farming Assistant) Tj
+0 -12 Td
+/F1 9.5 Tf ( - Java-based modular advisory logic for irrigation, fertilizer, soil moisture & pest alerts) Tj
+0 -12 Td ( - Tech Stack: Java, OOP, Data Structures, ArrayList, Stack) Tj
+0 -22 Td
+/F2 13 Tf (CERTIFICATIONS & ACHIEVEMENTS) Tj
+0 -14 Td
+/F1 9.5 Tf ( - Python for Everybody Specialization - University of Michigan - Coursera) Tj
+0 -12 Td ( - Django Web Development - Udemy | HackerRank Python Certified) Tj
+0 -12 Td ( - 1st Runner-up, College-Level Coding Competition) Tj
+0 -12 Td ( - Solved 150+ DSA problems on LeetCode / GeeksforGeeks in Python) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3284
+%%EOF
